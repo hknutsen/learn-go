@@ -8,3 +8,4 @@
 - [Return and handle an error](https://go.dev/doc/tutorial/handle-errors)
 - [Return a random greeting](https://go.dev/doc/tutorial/random-greeting)
 - [Return greetings for multiple people](https://go.dev/doc/tutorial/greetings-multiple-people)
+- [Add a test](https://go.dev/doc/tutorial/add-a-test)
